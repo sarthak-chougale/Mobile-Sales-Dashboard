@@ -43,3 +43,5 @@ Business Impact and Insights
  Strategic Growth → Recognizes top-performing categories or regions for targeted expansion.
  Data-Driven Culture → Encourages managers to rely on insights instead of assumptions, leading to better decisions.
  By providing a comprehensive, data-driven view, the dashboard transforms raw numbers into a powerful business intelligence tool that enhances both operational and strategic efficiency.
+
+ Dashboard Review (https://github.com/sarthak-chougale/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard2025-09-18%20224225.png)
